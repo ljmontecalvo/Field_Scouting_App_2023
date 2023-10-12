@@ -1,0 +1,13 @@
+AUTO:
+1. Did robot exit community? (Checkbox)
+2. What pieces did the robot score? (Grid Graphic)
+3. Did the robot dock on the charging station? (Dropdown [Off Charging Station, On Charging Station, Engaged On Charging Station])
+4. Was the robot given any penalties? (Checkbox)
+5. How many links did the alliance achieve? (Textfield)
+
+TELEOP:
+1. What pieces did the robot score? (Grid Graphic)
+2. Did the robot dock on the charging station? (Dropdown [Off Charging Station, On Charging Station, Alliance Engaged Charging Station])
+3. Was the robot given any penalties? (Checkbox)
+4. Was the robot in the community when the teleop period ended? (Checkbox)
+5. How many links did the alliance achieve? (Textfield) 
